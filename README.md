@@ -9,7 +9,7 @@
 * [Conclusão](#conclusão)
 
 # Desafio da Target Sistemas!
-![Imagem amarela com um lâmpada branca sinalizando uma ideia](../../../Imagens/desafio.jpg)
+![Desenho de uma cabeça com várias engrenagens, simbolizando o pensamento de uma ideia](https://blogs.iadb.org/conocimiento-abierto/wp-content/uploads/sites/10/2017/03/idea-concept-banner.jpg)
 
 Tecnologia Utilizadas
 
