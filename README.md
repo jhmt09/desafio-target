@@ -9,6 +9,7 @@
 * [Conclusão](#conclusão)
 
 # Desafio da Target Sistemas!
+![Imagem amarela com um lâmpada branca sinalizando uma ideia](../../../Imagens/desafio.jpg)
 
 Tecnologia Utilizadas
 
